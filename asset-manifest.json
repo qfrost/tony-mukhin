@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tony-mukhin/static/css/main.621e18cd.css",
-    "main.js": "/tony-mukhin/static/js/main.51558b26.js",
+    "main.js": "/tony-mukhin/static/js/main.441d8210.js",
     "index.html": "/tony-mukhin/index.html",
     "main.621e18cd.css.map": "/tony-mukhin/static/css/main.621e18cd.css.map",
-    "main.51558b26.js.map": "/tony-mukhin/static/js/main.51558b26.js.map"
+    "main.441d8210.js.map": "/tony-mukhin/static/js/main.441d8210.js.map"
   },
   "entrypoints": [
     "static/css/main.621e18cd.css",
-    "static/js/main.51558b26.js"
+    "static/js/main.441d8210.js"
   ]
 }
