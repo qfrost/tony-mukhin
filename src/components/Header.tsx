@@ -68,7 +68,7 @@ const Header: React.FC = () => {
               <p className="text-sm font-medium text-gray-500 uppercase tracking-wider mb-2">
                 Based in:
               </p>
-              <p className="text-gray-300">Moscow, Russia</p>
+              <p className="text-gray-300">LA California</p>
             </div>
 
             {/* Social Links */}
