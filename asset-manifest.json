@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tony-mukhin/static/css/main.621e18cd.css",
+    "main.js": "/tony-mukhin/static/js/main.a280de53.js",
+    "index.html": "/tony-mukhin/index.html",
+    "main.621e18cd.css.map": "/tony-mukhin/static/css/main.621e18cd.css.map",
+    "main.a280de53.js.map": "/tony-mukhin/static/js/main.a280de53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.621e18cd.css",
+    "static/js/main.a280de53.js"
+  ]
+}
